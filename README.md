@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeyadnofal
-- 👀 I’m interested in software development (especially backend work..not a big fan of frontend)
-- 🌱 I’m currently learning full-stack web development
+- 🌱 I’m a Full-Stack Developer for 2 years
+- 👀 I enjoy C#, Java, Python and TypeScript
 - 📫 How to reach me -> send me an email on zeyadnofal98@gmail.com
 
 <!---
