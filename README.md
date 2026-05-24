@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @zeyadnofal
-- 🌱 I’m a Full-Stack Developer for 2 years
-- 👀 I enjoy C#, Java, Python and TypeScript
-- 📫 How to reach me -> send me an email on zeyadnofal98@gmail.com
-- This account is under development till further notice
-<!---
-zeyadnofal/zeyadnofal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
---->
+# Hey, I'm Zeyad 👋
+
+Senior Software Developer based in Cairo, with a background in enterprise integration
+and financial crime technology. I enjoy building things end-to-end — from system
+architecture down to the last line of code. Currently exploring a transition into
+project and product management.
+
+## What I work with
+
+- **Integration:** Apache Camel, ActiveMQ, JMS, ESB patterns
+- **Fraud Tech:** SAS Fraud Management, SAS Fraud Decisioning, SAS BOSS
+- **Web:** Next.js, React, Tailwind CSS
+- **Languages:** Java, JavaScript, Python, C# (.NET)
+
+## Side projects
+
+Currently building **GatePass** — a QR-based event check-in platform.
+
+## Reach me
+
+📧 zeyadnofal98@gmail.com
